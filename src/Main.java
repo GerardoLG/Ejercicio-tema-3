@@ -16,13 +16,20 @@ public class Main {
     public static int suma (int a, int b, int c){
         return a + b + c;
     }
+}
 
-     static class Coche{
+    class Coche{
         public int puertas = 4;
 
         public void agregarPuertas(){
             this.puertas++;
         }
     }
-}
+
+
+
+
+
+
+
 
